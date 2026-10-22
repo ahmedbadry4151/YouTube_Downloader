@@ -1,5 +1,3 @@
-# YouTube_Downloader
-
 # TurboTube
 
 A fast, self-hosted YouTube downloader with a zero-build web UI, a scriptable CLI, and a parallel download engine built on **yt-dlp**, **aria2c**, and **ffmpeg**.

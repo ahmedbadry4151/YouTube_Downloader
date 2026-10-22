@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+yt-dlp>=2026.3.17
+yt-dlp-ejs>=0.8.0
+pydantic>=2.9
+pydantic-settings>=2.6
+python-multipart>=0.0.18
+mutagen>=1.47
+rich>=13.9
+httpx>=0.27
